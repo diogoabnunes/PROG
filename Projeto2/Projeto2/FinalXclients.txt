@@ -1,0 +1,41 @@
+Joao Rosario
+201806334
+4
+Rua Domingos Luis Barreiro/53/401/4460-273/Maia
+2 ;5
+3100
+::::::::::
+Diogo Nunes
+201808546
+5
+Rua António Bessa Leite/856/52/4150-072/Porto
+1 ;4
+2750
+::::::::::
+Clara
+201806309
+4
+Joaquim Oliveira Lopes Dos Santos/102/-/4475-475/Maia
+2 ;4
+5100
+::::::::::
+Hugo
+201808548
+3
+Luis Dos Santos Aveiro/23/-/3456-234/Maia
+2 ;4
+1875
+::::::::::
+Joao Dossena
+201800174
+4
+Ferreira Lopes Ernesto/4/12/4470-356/Porto
+0
+0
+::::::::::
+Fabio Huang
+201806829
+3
+Porto Alegre/12/-/4460-389/Porto
+2
+1500
